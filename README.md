@@ -107,7 +107,7 @@ Or with options:
 ```bash
 python predict.py rose_sample.jpg --model flower_model.h5
 ```
-
+ 
 ## Model Architecture
 
 The designed CNN model includes 4 convolutional blocks:
